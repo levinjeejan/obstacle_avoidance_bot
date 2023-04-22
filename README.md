@@ -1,6 +1,9 @@
 # Obstacle Avoidance bot
-This project focuses on creating an intelligent robot capable of detecting obstacles and avoiding them in real-time using ROS2 development platform. 
-With ChatGPT's help, i aim to streamline the development process and improve the effectiveness of ROS2 projects.
-The repository includes all necessary resources, instructions for setup, and detailed documentation.
-I encourage contributions from the open-source community to help improve this project and inspire innovative robotic solutions. 
-Thank you for your interest in the "Obstacle Avoidance Bot" project, and i am look forward to collaborating with you!
+This project intends to increase my coding abilities and familiarity with the ROS2 programming environment, and I am following Muhammad Luqman's tutorial to create an intelligent robot capable of recognising and avoiding obstacles in real-time. 
+
+With the help of ChatGPT, may also reduce the development process and boost the efficacy of ROS2 projects.
+The repository includes all necessary resources, setup instructions, and detailed documentation.
+ 
+Thank you for your interest in the "Obstacle Avoidance Bot" project; I eagerly await the opportunity to collaborate with you!
+
+
