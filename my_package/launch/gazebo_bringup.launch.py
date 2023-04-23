@@ -5,14 +5,6 @@ from launch.actions import DeclareLaunchArgument, ExecuteProcess
 from launch.substitutions import LaunchConfiguration
 from launch_ros.actions import Node
 from launch.launch_description_sources import PythonLaunchDescriptionSource
-import subprocess
-
-# Path to the URDF file
-urdf_file_path = '/urdf/dolly.urdf'
-
-# Launch robot_state_publisher node
-cmd = ['rosrun', 'robot_state_publisher', 'robot_state_publisher', urdf_file_path]
-proc = subprocess.Popen(cmd)
 
 def generate_launch_description():
   urdf = os.path.join(get_package_share_directory('my_package'),'dolly.urdf')
