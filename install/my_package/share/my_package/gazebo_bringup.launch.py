@@ -7,7 +7,7 @@ from launch_ros.actions import Node
 from launch.launch_description_sources import PythonLaunchDescriptionSource
 
 def generate_launch_description():
-  urdf = os.path.join(get_package_share_directory('my_package'),'dolly.urdf')
+  urdf = os.path.join(get_package_share_directory('mr_rehri'),'1_rover.urdf')
   return LaunchDescription([
     #   publishes TF for links of the robot without joints
         Node(
