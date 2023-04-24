@@ -10,6 +10,7 @@ setup.py
 ../build/my_package/my_package.egg-info/zip-safe
 launch/gazebo_bringup.launch.py
 my_package/__init__.py
+my_package/circle_motion.py
 resource/my_package
 test/test_copyright.py
 test/test_flake8.py
