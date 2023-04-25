@@ -1,0 +1,23 @@
+[1.408s] Invoking command in '/home/levin/ROS2_WS/obstacle_avoidance_bot/my_package': PYTHONPATH=/home/levin/ROS2_WS/obstacle_avoidance_bot/build/my_package/prefix_override:/home/levin/ROS2_WS/obstacle_avoidance_bot/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/my_package build --build-base /home/levin/ROS2_WS/obstacle_avoidance_bot/build/my_package/build install --record /home/levin/ROS2_WS/obstacle_avoidance_bot/build/my_package/install.log --single-version-externally-managed
+[1.868s] running egg_info
+[1.870s] writing ../build/my_package/my_package.egg-info/PKG-INFO
+[1.871s] writing dependency_links to ../build/my_package/my_package.egg-info/dependency_links.txt
+[1.872s] writing entry points to ../build/my_package/my_package.egg-info/entry_points.txt
+[1.874s] writing requirements to ../build/my_package/my_package.egg-info/requires.txt
+[1.883s] writing top-level names to ../build/my_package/my_package.egg-info/top_level.txt
+[1.891s] reading manifest file '../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.896s] writing manifest file '../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.897s] running build
+[1.898s] running build_py
+[1.899s] running install
+[1.900s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.900s]   warnings.warn(
+[1.901s] running install_lib
+[1.904s] running install_data
+[1.906s] running install_egg_info
+[1.908s] removing '/home/levin/ROS2_WS/obstacle_avoidance_bot/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info' (and everything under it)
+[1.925s] Copying ../build/my_package/my_package.egg-info to /home/levin/ROS2_WS/obstacle_avoidance_bot/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info
+[1.933s] running install_scripts
+[1.970s] Installing my_circle_movement script to /home/levin/ROS2_WS/obstacle_avoidance_bot/install/my_package/lib/my_package
+[1.970s] writing list of installed files to '/home/levin/ROS2_WS/obstacle_avoidance_bot/build/my_package/install.log'
+[2.025s] Invoked command in '/home/levin/ROS2_WS/obstacle_avoidance_bot/my_package' returned '0': PYTHONPATH=/home/levin/ROS2_WS/obstacle_avoidance_bot/build/my_package/prefix_override:/home/levin/ROS2_WS/obstacle_avoidance_bot/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/my_package build --build-base /home/levin/ROS2_WS/obstacle_avoidance_bot/build/my_package/build install --record /home/levin/ROS2_WS/obstacle_avoidance_bot/build/my_package/install.log --single-version-externally-managed

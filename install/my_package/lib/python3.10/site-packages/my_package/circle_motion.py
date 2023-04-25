@@ -10,7 +10,7 @@ def main(args=None):
 
     twist_msg = Twist()
     twist_msg.linear.x = 0.2
-    twist_msg.angular.z = 0.5
+    twist_msg.angular.z = 0.9
 
     while rclpy.ok():
         publisher.publish(twist_msg)
