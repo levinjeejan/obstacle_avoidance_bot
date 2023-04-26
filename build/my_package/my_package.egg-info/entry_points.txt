@@ -1,3 +1,4 @@
 [console_scripts]
 my_circle_movement = my_package.circle_motion:main
+obstacle_avoidance_node = my_package.obstacle_avoidance:main
 
